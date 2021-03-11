@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Pushkar 👋
+
+I am a Competitive Programmer and Knows Full-Stack Development
+
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-pushkar--s-blue)](https://www.linkedin.com/in/pushkar-s-aa6835126/)
 
 <!--
 **Pushkar-s/Pushkar-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
