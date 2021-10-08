@@ -9,6 +9,7 @@ I am a Competitive Programmer, and I have developed several Full-Stack projects.
 ⚡ Fun fact I know: 
 *“Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.”* - (Patrick McKenzie)
 
+Profile Hits:
 ![Visitor Badge](https://profile-counter.glitch.me/Pushkar-s/count.svg)
 
 
