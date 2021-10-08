@@ -9,6 +9,9 @@ I am a Competitive Programmer, and I have developed several Full-Stack projects.
 ⚡ Fun fact I know: 
 *“Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.”* - (Patrick McKenzie)
 
+![Visitor Count](https://profile-counter.glitch.me/Pushkar-s/count.svg)
+
+
 <!--
 **Pushkar-s/Pushkar-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
