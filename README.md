@@ -1,8 +1,8 @@
-### Hi, I'm Pushkar 👋
+### Hi, I'm Pushkar 👋 🐧
 
-I am a former SDE Intern @ Amazon.
+SDE @ Amazon. Java Backend Developer, works in Amazon Transportation Domain
 
-I am a Competitive Programmer, and I have developed several Full-Stack projects.
+I am a Competitive Programmer.
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-pushkar--s-blue)](https://www.linkedin.com/in/pushkar-s-aa6835126/) [![Codeforces Badge](https://img.shields.io/badge/Codeforces-dementorx-yellow)](https://codeforces.com/profile/dementorx)
 
